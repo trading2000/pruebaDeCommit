@@ -7,16 +7,36 @@ no se
 problema 3
 copie errado
 
+pero
+eso no es todo
+todo es la esencia de la vida
+
+
 
 
 rama 3
 
 
+<<<<<<< HEAD
+=======
+ahora es probable
+o no?
+
+problema 4
+>>>>>>> rama2
 
 solved
 
+<<<<<<< HEAD
 solved
 problema? 6 no existe!
 not 
 
 usa el pull siempre
+=======
+problema 6
+
+
+y agrego algo mas aqui prara dar problemas.
+si eh que va a dar problemas
+>>>>>>> rama2
