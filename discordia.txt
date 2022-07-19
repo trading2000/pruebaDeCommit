@@ -12,9 +12,11 @@ copie errado
 rama 3
 
 
-problema 4
+
 solved
-problema 5
+
 solved
 problema? 6 no existe!
 not 
+
+usa el pull siempre
