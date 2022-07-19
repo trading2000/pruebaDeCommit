@@ -16,5 +16,5 @@ problema 4
 solved
 problema 5
 solved
-problema 6
-not yet
+problema? 6 no existe!
+not 
